@@ -1,0 +1,7 @@
+litellm
+beautifulsoup4
+html2text
+python-dotenv
+google-api-python-client
+playwright
+slack_sdk
